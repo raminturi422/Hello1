@@ -13,6 +13,7 @@ namespace Hello
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hiiii");
             Console.WriteLine("Hello");
+            Console.WriteLine("Welcome to Git");
         }
     }
 }
